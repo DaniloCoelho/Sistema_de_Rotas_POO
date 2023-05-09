@@ -1,0 +1,17 @@
+{
+    "name": "danal/sistema_rotas_teste",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danilo Ferreira",
+            "email": "dan.ali.ferreira@hotmail.com"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.5"
+    }
+}
